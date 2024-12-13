@@ -1,0 +1,33 @@
+.allBtn1{
+    width: 22rem;
+    background-color: aquamarine;
+    height: 2rem;
+    border-radius: 10px;
+    margin: .3rem;
+    text-align: center;
+    border: 2px solid;
+    position: relative;
+}
+
+#srin1{
+    width: 22rem;
+    height: 2.5rem;
+    border-radius: 10px;
+    border: 2px solid;
+    text-align: center;
+}
+
+#srbtn1{
+    background-color:aquamarine;
+    border-radius: 10px;
+    width: 22rem;
+    height: 2.5rem;
+    margin: .3rem;
+    border: 2px solid;
+}
+#mainUs{
+    display: 'flex';
+    justify-content: 'space-around';
+    flex-wrap:'wrap';
+    background-color: aqua;
+}

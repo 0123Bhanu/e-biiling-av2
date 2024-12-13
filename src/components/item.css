@@ -1,0 +1,10 @@
+#pdDiv{
+    border: 2px solid;
+    margin: '10px';
+    width: '100%';
+    display: block;
+    color: rgb(4, 13, 45);
+    text-align: center;
+    margin: .3rem;
+    background-color: bisque;
+}
